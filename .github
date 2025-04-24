@@ -1,1 +1,11 @@
 .github/PULL_REQUEST_TEMPLATE.md
+### 📝 Description
+- What did you change?
+
+### 🔗 Related Issue
+- Fixes #
+
+### ✅ Checklist
+- [ ] Code compiles and runs
+- [ ] Tests (if any) are passing
+- [ ] Conventional commit message is used
